@@ -1,7 +1,7 @@
-﻿1.python代码是在目录下的Rossman_zlq.ipynb
+﻿1.python代码是在目录下的：Rossman_zlq.ipynb
 
 
-2.目录下的Rossmann_capstore_report_zlq.pdf
+2.目录下的：Rossmann_capstore_report_zlq.pdf
 
 3.随机森林建模
 训练使用时间是57.3 s
@@ -18,7 +18,11 @@ XGBoost建模（初始化）
 预测结果上传Kaggle进行评分是0.11721
 
 
-4.预测结果xgboost_submission_3000.XLS
+4.预测结果：xgboost_submission_3000.XLS
 
 
 5.使用的软件：Anaconda3
+
+6.上传到kaggle的截图：kaggle.PNG
+
+7.运行代码成功的截图：run_result.PNG
